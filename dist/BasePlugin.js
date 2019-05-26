@@ -161,7 +161,7 @@ BasePlugin.prototype = {
         });
       }
 
-      scene.add.existing(this);
+      //scene.add.existing(this);
     },
 
     //  Called when a Scene is started by the SceneManager. The Scene is now active, visible and running.
